@@ -1,0 +1,19 @@
+<root>
+	<Properties>
+	</Properties>
+
+	<ClientMethods>
+
+		<SetAllUnit>
+			<Arg>	UNIT_ATTRIBUTE_LIST	</Arg>
+		</SetAllUnit>
+
+	</ClientMethods>
+
+	<BaseMethods>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+</root>

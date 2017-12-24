@@ -1,0 +1,12 @@
+<root>
+     <Properties>
+        <turnUnit>
+            <Type> UNIT_ATTRIBUTE </Type>
+            <Flags> CELL_PRIVATE </Flags>
+        </turnUnit>
+        <unit>
+            <Type> UNIT_ATTRIBUTE_LIST </Type>
+            <Flags> CELL_PRIVATE </Flags>
+        </unit>
+    </Properties>
+</root>
